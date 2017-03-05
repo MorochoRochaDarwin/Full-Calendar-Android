@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calendar2WeeksView.iml" filepath="$PROJECT_DIR$/Calendar2WeeksView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendar2weekslibrary/calendar2weekslibrary.iml" filepath="$PROJECT_DIR$/calendar2weekslibrary/calendar2weekslibrary.iml" />
+    </modules>
+  </component>
+</project>

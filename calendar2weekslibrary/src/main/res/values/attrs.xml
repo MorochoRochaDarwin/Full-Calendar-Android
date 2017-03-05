@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DSMRCalendarView">
+        <attr name="topBackgroundColor" format="color" />
+        <attr name="backgroundColorCalendar" format="color" />
+        <attr name="backgroundColorDays" format="color" />
+        <attr name="backgroundColorCurrentDay" format="color" />
+        <attr name="backgroundColorBadge" format="color" />
+        <attr name="headerBackgroundColor" format="color" />
+        <attr name="labelDaysColor" format="color" />
+        <attr name="paddingHeader" format="dimension" />
+        <attr name="startYear" format="integer" />
+        <attr name="endYear" format="integer" />
+    </declare-styleable>
+</resources>
